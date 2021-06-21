@@ -1,5 +1,5 @@
 # Hi, i'm Marco ;)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-aurelio-80330b1b8//)](https://www.linkedin.com/in/fernandrev/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-aurelio-80330b1b8//)
 ### About me
 I am a fullstack programmer and information security student
 
