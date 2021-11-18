@@ -1,6 +1,6 @@
 # Hi, i'm Marco ;)
 ### About me
-I am a fullstack programmer and information security student
+I am a backend engineer and information security student
 
 ### Stats
 <p>
