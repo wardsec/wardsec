@@ -1,8 +1,8 @@
 # Hi, i'm Marco 🌑  ; )
 ### About me  ###
-I am a backend engineer and information security student
+## I am a backend engineer and information security student ##
 
-### I currently work with the following technologies. ###
+#### I currently work with the following technologies. ####
 
 <a img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
