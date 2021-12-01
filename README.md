@@ -2,7 +2,7 @@
 ### About me  ###
 I am a backend engineer and information security student
 
-### I currently work with the following technologies. ### 
+I currently work with the following technologies. 
 <br>
 
 <div style="display: inline_block">
