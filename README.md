@@ -1,9 +1,22 @@
-# Hi, i'm Marco ;)
-### About me
+# Hi, i'm Marco 🌑  ; )
+### About me  ###
 I am a backend engineer and information security student
 
-### Stats
-<p>
+### I currently work with the following technologies. ###
+
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+">
+<br>
+<p>  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
