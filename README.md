@@ -23,6 +23,7 @@ I currently work with the following technologies.
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=wardsec&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=algolia"
     />
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wardsec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     <!--<img
       align="center"
       height="165"
