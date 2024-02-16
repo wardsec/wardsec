@@ -1,6 +1,6 @@
 # Hi, i'm Marco 🌑  ; )
 ### About me  ###
-I am a backend engineer and information security lead @ HachiTech
+I am a backend engineer and data engineer
 
 I currently work with the following technologies. 
 <br>
